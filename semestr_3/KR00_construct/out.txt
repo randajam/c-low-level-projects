@@ -1,0 +1,20 @@
+Class c1: 
+1 1 1 1
+90 90 90 90
+Class c2: 
+3 3 3 3
+40 140 40 140
+Class c3: 
+3 4 3 4
+20 160 20 160
+Class c4: 
+3 4 5 6
+100 110 205 45
+5 5 1 2
+100 110 205 45
+Area of c3: 2.05212
+Perimeter of c3: 14
+c3 is cyclical? false
+c3 is tangential? false
+c2 is cyclical? false
+c2 is tangential? false
